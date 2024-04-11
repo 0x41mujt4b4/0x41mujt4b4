@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Almujtaba</h1>
+<h1 align="center">Hi 👋, I'm Almujtaba</h1>
 <h3 align="center">A passionate Full-Stack developer from Sudan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x41mujt4b4&label=Profile%20views&color=0e75b6&style=flat" alt="0x41mujt4b4" /> </p>
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0x41mujt4b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="0x41mujt4b4" height="30" width="40" /></a>
+<a href="https://twitter.com/0x41mujt4b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x41mujt4b4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/almujtaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almujtaba" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/almujtaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="almujtaba" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/almujtaba007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="almujtaba007" height="30" width="40" /></a>
@@ -27,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x41mujt4b4&show_icons=true&locale=en&layout=compact" alt="0x41mujt4b4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x41mujt4b4&show_icons=true&locale=en" alt="0x41mujt4b4" /></p>
-](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social)
