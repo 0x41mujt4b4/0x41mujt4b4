@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Almujtaba</h1>
 <h3 align="center">👨‍💻 Full-stack developer | ♟️ Chess enthusiast | 🧠 Problem-solving<br/>
-I'm a Software engineer who enjoy transforming complex problems into intuitive solutions.
+I'm a Software engineer who enjoys transforming complex problems into intuitive solutions.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x41mujt4b4&label=Profile%20views&color=0e75b6&style=flat" alt="0x41mujt4b4" /> </p>
