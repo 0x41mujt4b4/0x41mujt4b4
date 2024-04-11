@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Almujtaba</h1>
+[<h1 align="center">Hi 👋, I'm Almujtaba</h1>
 <h3 align="center">A passionate Full-Stack developer from Sudan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x41mujt4b4&label=Profile%20views&color=0e75b6&style=flat" alt="0x41mujt4b4" /> </p>
@@ -27,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x41mujt4b4&show_icons=true&locale=en&layout=compact" alt="0x41mujt4b4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x41mujt4b4&show_icons=true&locale=en" alt="0x41mujt4b4" /></p>
+](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social)
