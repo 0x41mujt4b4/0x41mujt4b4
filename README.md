@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Almujtaba</h1>
-<h3 align="center">👨‍💻 Full-stack developer | ♟️ Chess enthusiast | 🧠 Problem-solving aficionado.<br/>Hello! I'm a Full-Stack Web Developer with a love for coding and chess. I enjoy transforming complex problems into intuitive solutions. When I'm not coding, you'll find me immersed in a game of chess, honing my strategic thinking. Let's connect and conquer both the tech world and chessboard!
+<h3 align="center">👨‍💻 Full-stack developer | ♟️ Chess enthusiast | 🧠 Problem-solving aficionado<br/>Hello! I'm a Full-Stack Web Developer with a love for coding and chess. I enjoy transforming complex problems into intuitive solutions. When I'm not coding, you'll find me immersed in a game of chess, honing my strategic thinking. Let's connect and conquer both the tech world and chessboard!
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x41mujt4b4&label=Profile%20views&color=0e75b6&style=flat" alt="0x41mujt4b4" /> </p>
